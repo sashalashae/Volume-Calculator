@@ -1,0 +1,1 @@
+const double PI = 3.1415926535898; //global declaration of pi variable
